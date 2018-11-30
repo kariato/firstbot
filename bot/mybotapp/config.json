@@ -1,0 +1,24 @@
+{
+  "sessionAuthHost": "wellsfargo-1-api.symphony.com",
+  "sessionAuthPort": 443,
+  "keyAuthHost": "wellsfargo-1-keyauth.symphony.com",
+  "keyAuthPort": 443,
+  "podHost": "wellsfargo-1.symphony.com",
+  "podPort": 443,
+  "agentHost": "wellsfargo-1-agent.symphony.com",
+  "agentPort": 443,
+  "botCertPath": "/home/kariato/bot/mybotapp/certificates/",
+  "botCertName": "megabot",
+  "botCertPassword": "changeit",
+  "botEmailAddress": "megabot@bot.symphony.com",
+  "appCertPath": "",
+  "appCertName": "",
+  "appCertPassword": "",
+  "proxyURL": "",
+  "proxyUsername": "",
+  "proxyPassword": "",
+  "authTokenRefreshPeriod": "30",
+  "truststorePath": "/home/kariato/bot/mybotapp/certificates/all_symphony_certs_truststore",
+  "truststorePassword": "changeit"
+}
+

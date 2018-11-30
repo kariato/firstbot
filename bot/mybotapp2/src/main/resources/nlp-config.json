@@ -1,0 +1,5 @@
+{
+  "posmodelPath": "/home/kariato/bot/mybotapp2/src/main/resources/en-pos-maxent.bin",
+  "sentenceSplitterModelPath": "/home/kariato/bot/mybotapp2/src/main/resources/en-sent.bin",
+  "patternsFile": "/home/kariato/bot/mybotapp2/src/main/resources/patterns.json"
+}
